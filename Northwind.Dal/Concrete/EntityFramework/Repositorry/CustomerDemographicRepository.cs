@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public CustomerDemographicRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable CustomerDemographicReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

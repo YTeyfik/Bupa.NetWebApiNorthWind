@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Northwind.Entity.Statics
 {
-    internal class Enum
+    public class Enum
     {
     }
 }

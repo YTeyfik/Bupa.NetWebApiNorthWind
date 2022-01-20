@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public SalesTotalsByAmountRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable SalesTotalsByAmountReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

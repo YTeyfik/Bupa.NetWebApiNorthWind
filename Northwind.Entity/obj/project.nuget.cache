@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l670bK4liF+i+EH56G3iuyKXxMuBUxMKq70gf0Te1y3J9QSupgLXnte4mwHtT5UAOfdpK12ffT/ypPhs93Z3HQ==",
+  "dgSpecHash": "WJpOWPrg1UCUOZ2HG0NiupufUo6GsUkZvZ4BUHeNMXoLBUo6hDOGs8LCAj0KW8XJKilJXyJcG0hCAf/aJnQCoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\teyo_\\source\\repos\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj",
+  "projectFilePath": "C:\\Users\\teyo_\\first-assignment-YTeyfik\\Northwind.Entity\\Northwind.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\teyo_\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\teyo_\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public RegionRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable RegionReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

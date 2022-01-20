@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public SalesByCategoryRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable SalesByCategoryReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public OrderDetailRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable OrderDetailReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

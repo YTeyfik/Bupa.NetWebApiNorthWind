@@ -1,0 +1,15 @@
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.deps.json
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.dll
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\bin\Debug\net5.0\ref\Northwind.Interface.dll
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.pdb
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.AssemblyReference.cache
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfoInputs.cache
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfo.cs
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CoreCompileInputs.cache
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CopyComplete
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.dll
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\obj\Debug\net5.0\ref\Northwind.Interface.dll
+C:\Users\teyo_\first-assignment-YTeyfik\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.pdb

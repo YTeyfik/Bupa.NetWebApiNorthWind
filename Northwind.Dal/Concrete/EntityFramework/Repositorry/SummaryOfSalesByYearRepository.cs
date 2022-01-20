@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public SummaryOfSalesByYearRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable SummaryOfSalesByYearReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public SupplierRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable SupplierReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

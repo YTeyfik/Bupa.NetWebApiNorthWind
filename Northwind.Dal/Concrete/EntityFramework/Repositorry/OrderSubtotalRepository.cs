@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public OrderSubtotalRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable OrderSubtotalReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

@@ -5767,11 +5767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teyo_\\source\\repos\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\teyo_\\first-assignment-YTeyfik\\Northwind.Interface\\Northwind.Interface.csproj",
       "projectName": "Northwind.Interface",
-      "projectPath": "C:\\Users\\teyo_\\source\\repos\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj",
+      "projectPath": "C:\\Users\\teyo_\\first-assignment-YTeyfik\\Northwind.Interface\\Northwind.Interface.csproj",
       "packagesPath": "C:\\Users\\teyo_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teyo_\\source\\repos\\Northwind\\Northwind.Interface\\obj\\",
+      "outputPath": "C:\\Users\\teyo_\\first-assignment-YTeyfik\\Northwind.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\teyo_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5788,8 +5788,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\teyo_\\source\\repos\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
-              "projectPath": "C:\\Users\\teyo_\\source\\repos\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj"
+            "C:\\Users\\teyo_\\first-assignment-YTeyfik\\Northwind.Entity\\Northwind.Entity.csproj": {
+              "projectPath": "C:\\Users\\teyo_\\first-assignment-YTeyfik\\Northwind.Entity\\Northwind.Entity.csproj"
             }
           }
         }

@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public EmployeeRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable EmployeeReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

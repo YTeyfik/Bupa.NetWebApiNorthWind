@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public QuarterlyOrderRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable QuarterlyOrderReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

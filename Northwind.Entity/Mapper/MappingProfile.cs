@@ -15,6 +15,9 @@ namespace Northwind.Entity.Mapper
         {
             CreateMap<Customer, DtoCustomer>().ReverseMap();
             CreateMap<Order, DtoOrder>().ReverseMap();
+            CreateMap<User, DtoUser>().ReverseMap();
+            CreateMap<User, DtoLoginUser>().ReverseMap();
+            CreateMap<User, DtoLogin>().ReverseMap();
             CreateMap<AlphabeticalListOfProduct, DtoAlphabeticalListOfProduct>().ReverseMap();
             CreateMap<Category, DtoCategory>().ReverseMap();
             CreateMap<CategorySalesFor1997, DtoCategorySalesFor1997>().ReverseMap();

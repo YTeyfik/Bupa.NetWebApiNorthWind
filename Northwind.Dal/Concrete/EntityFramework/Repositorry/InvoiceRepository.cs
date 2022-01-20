@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public InvoiceRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable InvoiceReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

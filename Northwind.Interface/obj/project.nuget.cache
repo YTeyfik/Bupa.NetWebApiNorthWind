@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "diZKZ1P0tNxhmo+msgke6knMuzBNoup5uHWpDq+atZdMfqBPwLWzd2AFbT26nHU4HZj6soT+2Qi6xONc3vXfiw==",
+  "dgSpecHash": "trGmLTZX/foYzOYXHBQXy+7anl5t4F8LC3TU38ZpgQ73GysC/63qRgdS/GNyZHrf9vtPhT8aZKncs7bmhGCg1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\teyo_\\source\\repos\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj",
+  "projectFilePath": "C:\\Users\\teyo_\\first-assignment-YTeyfik\\Northwind.Interface\\Northwind.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\teyo_\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\teyo_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

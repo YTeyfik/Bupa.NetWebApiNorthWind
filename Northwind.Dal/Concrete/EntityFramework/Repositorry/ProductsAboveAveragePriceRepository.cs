@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public ProductsAboveAveragePriceRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable ProductsAboveAveragePriceReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

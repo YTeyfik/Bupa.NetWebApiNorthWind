@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public CategorySalesFor1997Repository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable CategorySalesFor1997Report()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

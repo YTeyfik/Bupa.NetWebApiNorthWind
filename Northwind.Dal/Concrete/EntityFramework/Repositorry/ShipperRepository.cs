@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public ShipperRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable ShipperReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }

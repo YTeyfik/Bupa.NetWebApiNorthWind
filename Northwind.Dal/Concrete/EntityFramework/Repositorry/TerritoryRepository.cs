@@ -14,5 +14,10 @@ namespace Northwind.Dal.Concrete.EntityFramework.Repositorry
         public TerritoryRepository(DbContext context) : base(context)
         {
         }
+
+        public IQueryable TerritoryReport()
+        {
+            return dbSet.AsQueryable();
+        }
     }
 }
